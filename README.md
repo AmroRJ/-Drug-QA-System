@@ -95,6 +95,3 @@ The model can answer questions like:
 - Implement negation handling for more accurate answers
 - Add support for multi-document question answering
 - Enhance the model with entity linking to medical knowledge bases
-
-## License
-
